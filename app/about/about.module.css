@@ -1,0 +1,17 @@
+.intro{
+    height: 200px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 20%;
+    display: flex;
+    align-items: center;
+    padding: 25px;
+
+    justify-content: center;
+    background-color: rgb(229, 217, 240);}
+
+    .about{font-size: 50px;
+    }
+
+    .main{font-size: 100px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+     ;}
